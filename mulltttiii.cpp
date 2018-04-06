@@ -191,15 +191,7 @@ int main(){
 			k=k+1;
 		}
 	}
-/*	for(int i=0;i<c;i++){
-		printf("\n p[%d] %d",p1[i],bt1[i]);
-	}
-		for(int i=0;i<d;i++){
-		printf("\n p[%d] %d",p2[i],bt2[i]);
-	}
-		for(int i=0;i<e;i++){
-		printf("\n p[%d] %d",p3[i],bt3[i]);
-	}*/
+
 	for(int i=0;i<c;i++){
 		printf("p[%d] : %d",p1[i],bt1[i]);
 	}
