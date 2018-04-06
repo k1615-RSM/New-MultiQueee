@@ -192,9 +192,7 @@ int main(){
 		}
 	}
 
-	for(int i=0;i<c;i++){
-		printf("p[%d] : %d",p1[i],bt1[i]);
-	}
+	
 	printf("\nProcess\t\tBurst Time\tWaiting Time\tTurnaround Time");
 	rr(c,at,bt1,p1);
 	priority(p2,bt2,pr2,d);
